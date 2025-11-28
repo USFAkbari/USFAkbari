@@ -1,5 +1,7 @@
+<!-- markdownlint-disable MD033 MD041 MD045 -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yousef%20Akbari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yousef%20Akbari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Yousef Akbari Header"/>
 </div>
 
 <div align="center">
@@ -23,11 +25,8 @@
 
 ## 📊 GitHub Stats
 
-<!-- markdownlint-disable MD033 -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usfakbari&theme=tokyonight" alt="Profile Details"/>
-<!-- markdownlint-enable MD033 -->
 
-<!-- markdownlint-disable MD033 -->
 <table>
   <tr>
     <td width="33.33%" align="center">
@@ -41,7 +40,6 @@
     </td>
   </tr>
 </table>
-<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -262,3 +260,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=USFAkbari&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div>
+<!-- markdownlint-disable MD033 -->
