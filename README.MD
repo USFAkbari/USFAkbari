@@ -23,22 +23,25 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USFAkbari/USFAkbari/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USFAkbari/USFAkbari/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/USFAkbari/USFAkbari/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+<!-- markdownlint-disable MD033 -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usfakbari&theme=tokyonight" alt="Profile Details"/>
+<!-- markdownlint-enable MD033 -->
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USFAkbari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USFAkbari&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=USFAkbari&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+<!-- markdownlint-disable MD033 -->
+<table>
+  <tr>
+    <td width="33.33%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usfakbari&theme=tokyonight" alt="Repos per Language"/>
+    </td>
+    <td width="33.33%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=usfakbari&theme=tokyonight" alt="Stats"/>
+    </td>
+    <td width="33.33%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=usfakbari&theme=tokyonight&utcOffset=8" alt="Productive Time"/>
+    </td>
+  </tr>
+</table>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -215,10 +218,10 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=USFAkbari&repo=your-repo-name&theme=tokyonight" alt="Project 1"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=USFAkbari&repo=Remote-access-Vpn-Wiregard&theme=tokyonight" alt="https://github.com/USFAkbari/Remote-access-Vpn-Wiregard"/>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=USFAkbari&repo=your-repo-name&theme=tokyonight" alt="Project 2"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=USFAkbari&repo=Push_Notification&theme=tokyonight" alt="https://github.com/USFAkbari/Push_Notification"/>
       </td>
     </tr>
   </table>
