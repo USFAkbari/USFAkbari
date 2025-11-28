@@ -25,8 +25,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usfakbari&theme=tokyonight" alt="Profile Details"/>
-
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usfakbari&theme=tokyonight" alt="Profile Details"/>
 <table>
   <tr>
     <td width="33.33%" align="center">
